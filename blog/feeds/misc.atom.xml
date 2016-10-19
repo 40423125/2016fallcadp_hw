@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>40423125上課報告</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2016-10-13T00:00:00+08:00</updated><entry><title>2016.10.13第五週</title><link href="./20161013di-wu-zhou.html" rel="alternate"></link><published>2016-10-13T00:00:00+08:00</published><updated>2016-10-13T00:00:00+08:00</updated><author><name>40423125邱弘丞</name></author><id>tag:,2016-10-13:./20161013di-wu-zhou.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;越來越少人來上課了:(((((&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
-</summary><category term="w5"></category></entry><entry><title>2016.10.06第四週</title><link href="./20161006di-si-zhou.html" rel="alternate"></link><published>2016-10-06T00:00:00+08:00</published><updated>2016-10-06T00:00:00+08:00</updated><author><name>40423125邱弘丞</name></author><id>tag:,2016-10-06:./20161006di-si-zhou.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;國慶就快到拉:))))
+
+
+&lt;p&gt;今天因為有一組的子模組有出現問題&lt;/p&gt;
+&lt;p&gt;所以有教到如何去除子模組&lt;/p&gt;
+&lt;h2&gt;刪除指令:git rm -rf&lt;/h2&gt;
+&lt;p&gt;參考的連結https://blog.longwin.com.tw/2015/05/git-submodule-add-remove-2015/&lt;/p&gt;
+&lt;p&gt;這禮拜的作業就是小組的blog要有出來以及個人的要新增&lt;/p&gt;
+&lt;p&gt;小組:https://40423106.github.io/2016fallcadp_ag4/blog/index.html&lt;/p&gt;
+&lt;p&gt;個人:https://40423125.github.io/2016fallcadp_hw&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/vLLN4Dg"&gt;&lt;img src="http://i.imgur.com/vLLN4Dg.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;影片:
+&lt;iframe src="https://player.vimeo.com/video/187984647" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/187984647"&gt;40423125_2016_10_19&lt;/a&gt; from &lt;a href="https://vimeo.com/user47988113"&gt;邱弘丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="w5"></category></entry><entry><title>2016.10.06第四週</title><link href="./20161006di-si-zhou.html" rel="alternate"></link><published>2016-10-06T00:00:00+08:00</published><updated>2016-10-06T00:00:00+08:00</updated><author><name>40423125邱弘丞</name></author><id>tag:,2016-10-06:./20161006di-si-zhou.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;國慶就快到拉:))))
 期待放假呢!!!&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
 
 
@@ -89,4 +101,5 @@
 &lt;p&gt;&lt;a href="https://vimeo.com/185641132"&gt;畫3d&lt;/a&gt; from &lt;a href="https://vimeo.com/user47988113"&gt;邱弘丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="w2"></category></entry><entry><title>2016.09.15第一週</title><link href="./20160915di-yi-zhou.html" rel="alternate"></link><published>2016-09-15T00:00:00+08:00</published><updated>2016-09-15T00:00:00+08:00</updated><author><name>40423125邱弘丞</name></author><id>tag:,2016-09-15:./20160915di-yi-zhou.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;中秋節快樂拉:)))&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
 
 
-&lt;p&gt;&lt;font color="#990099"&gt;&lt;font size="6"&gt;中秋節快樂拉:)))&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;</summary><category term="w1"></category></entry></feed>
+&lt;p&gt;&lt;font color="#990099"&gt;&lt;font size="6"&gt;中秋節快樂拉:)))&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/BrZmRJA"&gt;&lt;img src="http://i.imgur.com/BrZmRJA.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="w1"></category></entry></feed>
