@@ -40,8 +40,14 @@
 <v t="leo.20161019204323.1" a="E"><vh>2016.10.06</vh>
 <v t="leo.20161019204323.2"><vh>w4</vh></v>
 </v>
-<v t="leo.20161019204325.1" a="E"><vh>2016.10.13</vh>
+<v t="leo.20161019204325.1"><vh>2016.10.13</vh>
 <v t="leo.20161019204325.2"><vh>w5</vh></v>
+</v>
+<v t="leo.20161027161031.1" a="E"><vh>2016.10.20</vh>
+<v t="leo.20161027161031.2"><vh>w6</vh></v>
+</v>
+<v t="leo.20161027161032.1" a="E"><vh>2016.10.27</vh>
+<v t="leo.20161027161032.2"><vh>w7</vh></v>
 </v>
 </v>
 </v>
@@ -70,6 +76,8 @@
 <v t="leo.20161012154427.1" a="E"><vh>201610</vh>
 <v t="leo.20161012154427.2"><vh>@edit 20161006.md</vh></v>
 <v t="leo.20161013142816.1"><vh>@edit 20161013.md</vh></v>
+<v t="leo.20161027161107.1"><vh>@edit 20161020.md</vh></v>
+<v t="leo.20161027161109.1"><vh>@edit 20161027.md</vh></v>
 </v>
 </v>
 </v>
@@ -446,6 +454,32 @@ DEFAULT_DATE = 'fs'</t>
 
 &lt;iframe src="https://player.vimeo.com/video/187984647" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/187984647"&gt;40423125_2016_10_19&lt;/a&gt; from &lt;a href="https://vimeo.com/user47988113"&gt;邱弘丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20161027161031.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20161027161031.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others 
+######2016.10.20
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20161027161032.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20161027161032.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others 
+######2016.10.27
+
 
     &lt;/script&gt;
 &lt;/section&gt;</t>
