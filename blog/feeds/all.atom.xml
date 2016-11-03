@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423125上課報告</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2016-10-27T00:00:00+08:00</updated><entry><title>2016.10.27第七週</title><link href="./20161027di-qi-zhou.html" rel="alternate"></link><published>2016-10-27T00:00:00+08:00</published><updated>2016-10-27T00:00:00+08:00</updated><author><name>40423125邱弘丞</name></author><id>tag:,2016-10-27:./20161027di-qi-zhou.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;四連桿機構&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423125上課報告</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2016-11-03T00:00:00+08:00</updated><entry><title>2016.11.03第八週</title><link href="./20161103di-ba-zhou.html" rel="alternate"></link><published>2016-11-03T00:00:00+08:00</published><updated>2016-11-03T00:00:00+08:00</updated><author><name>40423125邱弘丞</name></author><id>tag:,2016-11-03:./20161103di-ba-zhou.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;期中考前一周囉!!!!!&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+
+
+&lt;p&gt;今天要自評與平組員囉!&lt;/p&gt;
+&lt;p&gt;也是看看自己這兩個月做了甚麼事!!!&lt;/p&gt;
+&lt;p&gt;老師教我們看onshape的範例  自己畫畫看 這是我畫的&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/6OEwGIS"&gt;&lt;img src="http://i.imgur.com/6OEwGIS.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="w8"></category></entry><entry><title>2016.10.27第七週</title><link href="./20161027di-qi-zhou.html" rel="alternate"></link><published>2016-10-27T00:00:00+08:00</published><updated>2016-10-27T00:00:00+08:00</updated><author><name>40423125邱弘丞</name></author><id>tag:,2016-10-27:./20161027di-qi-zhou.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;四連桿機構&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
 
 
 &lt;p&gt;已經四連桿各桿尺寸, 當機構繞行一圈後求特定點的座標, 以 Solvespace 進行點座標追蹤存檔, 得到
