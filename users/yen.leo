@@ -366,6 +366,24 @@ DEFAULT_DATE = 'fs'</t>
     &lt;/script&gt;
 &lt;/section&gt;	
 
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;先到 https://github.com/mdecourse/2016fallcadp/wiki/Solvespace_Parts 了解這篇文章&lt;/p&gt;
+&lt;p&gt;名詞定義&lt;/p&gt;
+&lt;p&gt;diameter直徑 oriented定位 respectively分別 plane面 equivalent相當地 construct建構 Zoom放大&lt;/p&gt;
+
+&lt;p&gt;mounting套、掛 axes軸(s) Initially原來 empty空 extruding擠壓 gusset扣板 sketch草圖 profile輪廓&lt;/p&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;segments段 radiused圓角 automatically自動 consists由 coincident一致 achieve達成 horizontal橫&lt;/p&gt;
+
+&lt;p&gt;references引用 modified改性 hover徘徊 perpendicular垂直 transparent透明&lt;/p&gt;
+&lt;/script&gt;
+&lt;/section&gt;
+
 
 &lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -376,7 +394,10 @@ DEFAULT_DATE = 'fs'</t>
 
 
     &lt;/script&gt;
-&lt;/section&gt;	</t>
+&lt;/section&gt;
+
+
+</t>
 <t tx="leo.20161019203110.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -399,6 +420,35 @@ DEFAULT_DATE = 'fs'</t>
     &lt;script type="text/template"&gt;
 
 &lt;img src="http://i.imgur.com/pubUMWx.jpg" width="50%" height="50%"&gt;
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;1.先到 https://github.com/mdecourse 的 2016cadp 按 Fork&lt;/p&gt;
+
+&lt;p&gt;2.在自己的github帳號創立一個 2016fallcadp_hw倉儲 把最下面的 Add.gitignore輸入 Python Add a license輸入 Agpl&lt;/p&gt;
+
+&lt;p&gt;3.在 2016fallcadp_hw倉儲 建立gh-pages分支&lt;/p&gt;
+
+&lt;p&gt;4.按上方的一個setting-branches-選擇gh-pages&lt;/p&gt;
+
+&lt;p&gt;5.在系上的電腦 輸入 140.130.17.17/2016fall 下載近端的python&lt;/p&gt;
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;6.在自己的帳號建立 40423125.github.io 說明打 my home page 把最下面的 Add.gitignore輸入 Python Add a license輸入 Agpl&lt;/p&gt;
+
+&lt;p&gt;7.在 40423125.github.io倉儲的左上角有一個 Create new file點進去 新增40423125.github.io.index.html 就會有自己的網頁了&lt;/p&gt;
+
+&lt;p&gt;8.進入 https://github.com/mdecourse/2016fallcadp/wiki 的上課筆記&lt;/p&gt;
+
+&lt;p&gt;下載繪圖軟體練習零件繪製: http://solvespace.com/bracket.pl &lt;/p&gt;
 
     &lt;/script&gt;
 &lt;/section&gt;
@@ -429,6 +479,45 @@ DEFAULT_DATE = 'fs'</t>
     &lt;/script&gt;
 &lt;/section&gt;		
 
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+
+&lt;p&gt;機械設計系的目標:&lt;/p&gt;
+
+&lt;p&gt;培養具創造力 精通表達&lt;/p&gt;
+
+&lt;p&gt;能積極配合 偕同產品設計流程的機械設計工程師&lt;/p&gt;
+
+&lt;p&gt;創造力=自學力+程式力+想像力&lt;/p&gt;
+
+ &lt;/script&gt;
+&lt;/section&gt;	
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;表達=oral,text,2D,3D,analytical,physical&lt;/p&gt;
+
+&lt;p&gt;協同產品設計=computer,network,tools,project&lt;/p&gt;
+
+&lt;p&gt;工業4.0=客製化,體貼&lt;/p&gt;
+
+&lt;p&gt;設proxy=proxy.mde.tw 3128&lt;/p&gt;
+
+&lt;p&gt;近端裝pelican: pip install pelican&lt;/p&gt;
+
+ &lt;/script&gt;
+&lt;/section&gt;	
+
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;img src="http://i.imgur.com/sRuXkDr.png" width="50%" height="50%"&gt;
+ &lt;/script&gt;
+&lt;/section&gt;
+
+
+
 &lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 
@@ -437,7 +526,11 @@ DEFAULT_DATE = 'fs'</t>
 
 
     &lt;/script&gt;
-&lt;/section&gt;	</t>
+&lt;/section&gt;	
+
+
+
+</t>
 <t tx="leo.20161019204325.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -460,7 +553,24 @@ DEFAULT_DATE = 'fs'</t>
 &lt;p&gt;&lt;a href="https://vimeo.com/187984647"&gt;40423125_2016_10_19&lt;/a&gt; from &lt;a href="https://vimeo.com/user47988113"&gt;邱弘丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+## 刪除指令:git rm -rf
+
+參考的連結https://blog.longwin.com.tw/2015/05/git-submodule-add-remove-2015/
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;img src="http://i.imgur.com/vLLN4Dg.jpg" width="50%" height="50%"&gt;
+
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
 <t tx="leo.20161027161031.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -469,10 +579,33 @@ DEFAULT_DATE = 'fs'</t>
     &lt;script type="text/template"&gt;
 @others 
 ######2016.10.20
+&lt;img src="http://i.imgur.com/6TRYq0N.jpg" width="50%" height="50%"&gt;
 
 
     &lt;/script&gt;
 &lt;/section&gt;
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;秋天也就快要過去了!!!!!!&lt;/p&gt;
+
+&lt;p&gt;也代表著段考快到了&lt;/p&gt;
+
+&lt;p&gt;希望我可以考個好成績呢&lt;/p&gt;
+
+&lt;p&gt;這禮拜是給自己修補LEO的時間&lt;/p&gt;
+
+&lt;p&gt;大家加油啊&lt;/p&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;img src="http://i.imgur.com/7OVkCrJ.jpg" width="50%" height="50%"&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
 
 </t>
 <t tx="leo.20161027161032.1">&lt;section&gt;
@@ -484,9 +617,32 @@ DEFAULT_DATE = 'fs'</t>
 @others 
 ######2016.10.27
 
+&lt;img src="http://i.imgur.com/hZWWidp.jpg" width="60%" height="60%"&gt;
+
 
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;今天學習用 solve path畫四連桿機構&lt;/p&gt;
+
+&lt;p&gt;其實還蠻有趣的呢&lt;/p&gt;
+
+&lt;p&gt;可以利用一個很簡單的程式&lt;/p&gt;
+
+&lt;p&gt;就可以學習到四連桿作動的軌跡!!&lt;/p&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+    
+&lt;img src="http://i.imgur.com/gUi0Uuf.png" width="60%" height="60%"&gt;
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20161103164505.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -495,11 +651,42 @@ DEFAULT_DATE = 'fs'</t>
     &lt;script type="text/template"&gt;
 @others 
 ######2016.11.03
+&lt;p&gt;自評週&lt;/p&gt;
 
-&lt;img src="http://i.imgur.com/6OEwGIS.png" width="50%" height="50%"&gt;
+&lt;img src="http://i.imgur.com/7OVkCrJ.jpg" width="60%" height="60%"&gt;
 
 
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;今天要自評拉:))) &lt;/p&gt;
+
+&lt;p&gt;別的不敢說!但我作業至少是來自我自己打的哦&lt;/p&gt;
+
+&lt;p&gt;今天終於要用到onshape了&lt;/p&gt;
+
+&lt;p&gt;之前有學過inventor&lt;/p&gt;
+
+&lt;p&gt;但跟inventor差好多呢!!!&lt;/p&gt;
+
+&lt;p&gt;下面是我自己畫的,希望大家會喜歡&lt;/p&gt;
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;img src="http://i.imgur.com/6OEwGIS.png" width="80%" height="80%"&gt;
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+</t>
 </tnodes>
 </leo_file>
