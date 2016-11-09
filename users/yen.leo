@@ -52,6 +52,9 @@
 <v t="leo.20161103164505.1" a="E"><vh>2016.11.03</vh>
 <v t="leo.20161103164505.2"><vh>w8</vh></v>
 </v>
+<v t="leo.20161109201829.1" a="E"><vh>2016.11.09</vh>
+<v t="leo.20161109201829.2"><vh>w8.5</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -82,6 +85,7 @@
 <v t="leo.20161027161107.1"><vh>@edit 20161020.md</vh></v>
 <v t="leo.20161027161109.1"><vh>@edit 20161027.md</vh></v>
 <v t="leo.20161103163928.1"><vh>@edit 20161103.md</vh></v>
+<v t="leo.20161109201148.1"><vh>@edit 20161109.md</vh></v>
 </v>
 </v>
 </v>
@@ -685,6 +689,69 @@ DEFAULT_DATE = 'fs'</t>
 
     &lt;/script&gt;
 &lt;/section&gt;
+
+
+</t>
+<t tx="leo.20161109201829.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20161109201829.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others 
+######2016.11.09
+&lt;p&gt;ONSHAPE圖&lt;/p&gt;
+
+&lt;img src="http://i.imgur.com/E4RtDIV.png" width="60%" height="60%"&gt;
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;p&gt;今天畫圖呢 &lt;/p&gt;
+
+&lt;p&gt;真的跟INVENTOR很不依樣&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/190854097" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/190854097"&gt;2016.11.09.1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47988113"&gt;邱弘丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;iframe src="https://player.vimeo.com/video/190854163" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/190854163"&gt;2016.11.09.2&lt;/a&gt; from &lt;a href="https://vimeo.com/user47988113"&gt;邱弘丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;iframe src="https://player.vimeo.com/video/190854284" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/190854284"&gt;2016.11.09.3&lt;/a&gt; from &lt;a href="https://vimeo.com/user47988113"&gt;邱弘丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;iframe src="https://player.vimeo.com/video/190854384" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/190854384"&gt;2016.11.09.4&lt;/a&gt; from &lt;a href="https://vimeo.com/user47988113"&gt;邱弘丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+
 
 
 </t>
