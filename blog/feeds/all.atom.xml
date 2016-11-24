@@ -15,7 +15,7 @@
 &lt;p&gt;STL 格式&lt;/p&gt;
 &lt;p&gt;將零件檔案轉出 STL 格式後 (binary or ASCII format definitions), 進入倉儲後, 利用 &lt;a href="https://help.github.com/articles/3d-file-viewer/"&gt;Github 內建的 stl viewer 功能&lt;/a&gt;展示.&lt;/p&gt;
 &lt;p&gt;three.js&lt;/p&gt;
-&lt;iframe src="./../w10/40423125_11_24.html" width="800" height="600"&gt;&lt;/iframe&gt;
+&lt;iframe src="./../data/threejs/donut.html" width="800" height="600"&gt;&lt;/iframe&gt;
 
 &lt;h3&gt;2. Assembly (零件組立)&lt;/h3&gt;
 &lt;p&gt;&lt;a href="http://solvespace.com/box.pl"&gt;http://solvespace.com/box.pl&lt;/a&gt;&lt;/p&gt;
