@@ -12,7 +12,7 @@
 &lt;p&gt;&lt;a href="http://imgur.com/E8KeDwA"&gt;&lt;img src="http://i.imgur.com/E8KeDwA.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;!-- 以下實際利用  Brython 畫四連桿 trace point 路徑--&gt;
 
-&lt;canvas id="fourbar" width="1000" height="1200"&gt;&lt;/canvas&gt;
+&lt;canvas id="fourbar" width="400" height="600"&gt;&lt;/canvas&gt;
 
 &lt;div id="container1"&gt;&lt;/div&gt;
 
