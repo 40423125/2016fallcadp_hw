@@ -4,12 +4,12 @@
 
 &lt;h2&gt;(二) 四連桿機構協同 Trace Point 查驗&lt;/h2&gt;
 &lt;p&gt;四連桿機構運動軌跡影片&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/qzl98-DAj5w" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/MFcGdiBxEtA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;四連桿機構運動軌跡圖片&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://imgur.com/lCnsstw"&gt;&lt;img src="http://i.imgur.com/lCnsstw.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/XzSwOGM"&gt;&lt;img src="http://i.imgur.com/XzSwOGM.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;利用Excel 查驗四連桿Trace Point 圖片&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://imgur.com/qu7VtWq"&gt;&lt;img src="http://i.imgur.com/qu7VtWq.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/E8KeDwA"&gt;&lt;img src="http://i.imgur.com/E8KeDwA.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
 &lt;script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
@@ -38,7 +38,7 @@ canvas = doc["fourbar"]
 container1 = doc['container1']
 ctx = canvas.getContext("2d")
 
-fourbar_data = open("./../data/404231251.csv").read()
+fourbar_data = open("./../data/40423125.csv").read()
 fourbar_list = fourbar_data.splitlines()
 #container1 &lt;= fourbar_list[0]
 # 以下可以利用 ctx 物件進行畫圖
