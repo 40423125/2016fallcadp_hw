@@ -323,9 +323,22 @@ init_mathjax();
 <p><a href="http://imgur.com/XzSwOGM"><img src="http://i.imgur.com/XzSwOGM.png" title="source: imgur.com" /></a></p>
 <p>利用Excel 查驗四連桿Trace Point 圖片</p>
 <p><a href="http://imgur.com/E8KeDwA"><img src="http://i.imgur.com/E8KeDwA.png" title="source: imgur.com" /></a></p>
+<!-- 導入 Brython 標準程式庫 -->
+
+<script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js">
+</script>
+
+<!-- 啟動 Brython -->
+
+<script>
+window.onload=function(){
+brython(1);
+}
+</script>
+
 <!-- 以下實際利用  Brython 畫四連桿 trace point 路徑-->
 
-<canvas id="fourbar" width="400" height="600"></canvas>
+<canvas id="fourbar" width="600" height="400"></canvas>
 
 <div id="container1"></div>
 
@@ -338,7 +351,7 @@ canvas = doc["fourbar"]
 container1 = doc['container1']
 ctx = canvas.getContext("2d")
 
-fourbar_data = open("./../work/40423125.csv").read()
+fourbar_data = open("./../data/40423125.csv").read()
 fourbar_list = fourbar_data.splitlines()
 #container1 <= fourbar_list[0]
 # 以下可以利用 ctx 物件進行畫圖
